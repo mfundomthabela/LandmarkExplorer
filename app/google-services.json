@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808914688990",
+    "project_id": "landmark-explorer-e88c2",
+    "storage_bucket": "landmark-explorer-e88c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808914688990:android:397fa2ef8e19877c0f9b4f",
+        "android_client_info": {
+          "package_name": "com.example.landmarkexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiCvnMtQ6gW0-nZII9UdJ_fmhlwLSg0Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
