@@ -1,7 +1,6 @@
-# Landmark Explorer
-
+## Landmark Explorer
 Landmark Explorer is an Android application that allows users to discover nearby landmarks, view their current location on a map, and get directions to selected landmarks. The app utilizes Firebase for authentication and Google Maps for displaying landmarks and navigation.
----
+
 ## Features
 - User registration and login using Firebase Authentication
 - View nearby landmarks on an embedded Google Map
