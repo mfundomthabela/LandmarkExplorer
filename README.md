@@ -28,7 +28,7 @@ Landmark Explorer is an Android application that allows users to discover nearby
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mfundomthabek/landmark-explorer.git
+   git clone (https://github.com/mfundomthabela/LandmarkExplorer.git)
    cd landmark-explorer
 2. Open the project in Android Studio.
 3. Update the AndroidManifest.xml with your Google Maps API key:
